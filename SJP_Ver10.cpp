@@ -1,7 +1,7 @@
 #include<iostream>
 #include<iomanip> // setw
 using namespace std;
-//
+////
 int main()
 {
     int S1_No, S2_No, S3_No;
